@@ -1,0 +1,1 @@
+# Bahan_Analisis_Sentimen_Dengan_LSTM_dan_Word2vec

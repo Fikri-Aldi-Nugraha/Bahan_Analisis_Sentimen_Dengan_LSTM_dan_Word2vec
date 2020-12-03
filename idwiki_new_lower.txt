@@ -1,0 +1,15 @@
+*Untuk corpus wikipedia dapat diperoleh atau didownload pada halaman berikut :
+  https://dumps.wikimedia.org/idwiki/
+
+*Hasil dump terbaru:
+  https://dumps.wikimedia.org/idwiki/latest/ (dengan nama  idwiki-latest-pages-articles.xml.bz2)
+
+*Hasil dump tanggal tertentu:
+  https://dumps.wikimedia.org/idwiki/<timestamp> (dengan nama idwiki-<timestamp>-pages-articles.xml.bz2)
+
+
+###### setelah corpus wikipedia hasil dump telah di download, selanjutnya silahkan konversi corpus wikipedia tersebut menjadi teks ######
+
+*Untuk cara konversi corpus wikipedia tersebut menjadi teks dapat dilihat referensinya pada halaman berikut :
+   https://medium.com/@diekanugraha/membuat-model-word2vec-bahasa-indonesia-dari-wikipedia-menggunakan-gensim-e5745b98714d
+
